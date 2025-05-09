@@ -1,0 +1,2 @@
+/* Arquivo JavaScript */
+/* JavaScript File */
